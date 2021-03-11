@@ -1,0 +1,12 @@
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\bin\Debug\net5.0\ClassExploration.deps.json
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\bin\Debug\net5.0\ClassExploration.dll
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\bin\Debug\net5.0\ref\ClassExploration.dll
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\bin\Debug\net5.0\ClassExploration.pdb
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ClassExploration.csprojAssemblyReference.cache
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ClassExploration.GeneratedMSBuildEditorConfig.editorconfig
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ClassExploration.AssemblyInfoInputs.cache
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ClassExploration.AssemblyInfo.cs
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ClassExploration.csproj.CoreCompileInputs.cache
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ClassExploration.dll
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ref\ClassExploration.dll
+D:\contributions\ExampleCode\ClassExploration\ClassExploration\obj\Debug\net5.0\ClassExploration.pdb
